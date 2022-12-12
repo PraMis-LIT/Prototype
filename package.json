@@ -16,7 +16,7 @@
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.15",
     "path": "^0.12.7"
